@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: Adafruit-LED-Backpack
+Version: 1.5.0
+Summary: Library to control LED backpack displays such as 8x8 single and bi-color matrices, bargraphs, 7 segment, and 14 segment displays.
+Home-page: https://github.com/adafruit/Adafruit_Python_LED_Backpack/
+Author: Tony DiCola
+Author-email: tdicola@adafruit.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
